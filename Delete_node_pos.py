@@ -40,17 +40,7 @@ class Linked_list:
 
         prev.next = temp.next
         temp = None
-        # while (temp is not None):
-        #     if (temp.data == key):
-        #         break
-        #     prev = temp
-        #     temp = temp.next
-        #
-        # if (temp == None):
-        #     return
-        #
-        # prev.next = temp.next
-        # temp = None
+
 
 
 if __name__ == '__main__':
